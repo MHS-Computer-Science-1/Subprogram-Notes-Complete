@@ -1,0 +1,34 @@
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes\Subprogram Notes\bin\Debug\net6.0-windows\Subprogram Notes.exe
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes\Subprogram Notes\bin\Debug\net6.0-windows\Subprogram Notes.deps.json
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes\Subprogram Notes\bin\Debug\net6.0-windows\Subprogram Notes.runtimeconfig.json
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes\Subprogram Notes\bin\Debug\net6.0-windows\Subprogram Notes.dll
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes\Subprogram Notes\bin\Debug\net6.0-windows\Subprogram Notes.pdb
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes\Subprogram Notes\obj\Debug\net6.0-windows\Subprogram Notes.vbproj.AssemblyReference.cache
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes\Subprogram Notes\obj\Debug\net6.0-windows\Subprogram_Notes.Form1.resources
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes\Subprogram Notes\obj\Debug\net6.0-windows\Subprogram Notes.vbproj.GenerateResource.cache
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes\Subprogram Notes\obj\Debug\net6.0-windows\Subprogram Notes.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes\Subprogram Notes\obj\Debug\net6.0-windows\Subprogram Notes.AssemblyInfoInputs.cache
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes\Subprogram Notes\obj\Debug\net6.0-windows\Subprogram Notes.AssemblyInfo.vb
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes\Subprogram Notes\obj\Debug\net6.0-windows\Subprogram Notes.vbproj.CoreCompileInputs.cache
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes\Subprogram Notes\obj\Debug\net6.0-windows\Subprogram Notes.dll
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes\Subprogram Notes\obj\Debug\net6.0-windows\refint\Subprogram Notes.dll
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes\Subprogram Notes\obj\Debug\net6.0-windows\Subprogram Notes.pdb
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes\Subprogram Notes\obj\Debug\net6.0-windows\Subprogram Notes.genruntimeconfig.cache
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes\Subprogram Notes\obj\Debug\net6.0-windows\ref\Subprogram Notes.dll
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes - Complete\Subprogram Notes\bin\Debug\net6.0-windows\Subprogram Notes.exe
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes - Complete\Subprogram Notes\bin\Debug\net6.0-windows\Subprogram Notes.deps.json
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes - Complete\Subprogram Notes\bin\Debug\net6.0-windows\Subprogram Notes.runtimeconfig.json
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes - Complete\Subprogram Notes\bin\Debug\net6.0-windows\Subprogram Notes.dll
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes - Complete\Subprogram Notes\bin\Debug\net6.0-windows\Subprogram Notes.pdb
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes - Complete\Subprogram Notes\obj\Debug\net6.0-windows\Subprogram Notes.vbproj.AssemblyReference.cache
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes - Complete\Subprogram Notes\obj\Debug\net6.0-windows\Subprogram_Notes.Form1.resources
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes - Complete\Subprogram Notes\obj\Debug\net6.0-windows\Subprogram Notes.vbproj.GenerateResource.cache
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes - Complete\Subprogram Notes\obj\Debug\net6.0-windows\Subprogram Notes.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes - Complete\Subprogram Notes\obj\Debug\net6.0-windows\Subprogram Notes.AssemblyInfoInputs.cache
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes - Complete\Subprogram Notes\obj\Debug\net6.0-windows\Subprogram Notes.AssemblyInfo.vb
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes - Complete\Subprogram Notes\obj\Debug\net6.0-windows\Subprogram Notes.vbproj.CoreCompileInputs.cache
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes - Complete\Subprogram Notes\obj\Debug\net6.0-windows\Subprogram Notes.dll
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes - Complete\Subprogram Notes\obj\Debug\net6.0-windows\refint\Subprogram Notes.dll
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes - Complete\Subprogram Notes\obj\Debug\net6.0-windows\Subprogram Notes.pdb
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes - Complete\Subprogram Notes\obj\Debug\net6.0-windows\Subprogram Notes.genruntimeconfig.cache
+G:\My Drive\Courses\CS1\07 Subs\Subprogram Notes - Complete\Subprogram Notes\obj\Debug\net6.0-windows\ref\Subprogram Notes.dll
